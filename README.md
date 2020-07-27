@@ -20,8 +20,8 @@ I will make time to talk if you need to talk. If my calendar is full with meetin
 
 #### Contacting me:
 
-**Slack** to get my attention quickly or chat about something
-**Email** if you want an in-depth answer or have a complicated question.
+**Slack** to get my attention quickly or chat about something<br>
+**Email** if you want an in-depth answer or have a complicated question.<br>
 **Phone** or **SMS** when it’s something urgent.
 
 If I send you a Slack message or email outside of your core working hours, I do not expect you to respond right away. Unless I state otherwise, it can wait until the next day. I likely just wanted to send the message/email while the thought was at the top of my mind, so I don’t forget.
