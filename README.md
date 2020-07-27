@@ -20,7 +20,7 @@ I will make time to talk if you need to talk. If my calendar is full with meetin
 
 #### Contacting me:
 
-**Slack** to get my attention quickly or chat about something<br>
+**Slack** to get my attention quickly or chat about something.<br>
 **Email** if you want an in-depth answer or have a complicated question.<br>
 **Phone** or **SMS** when it’s something urgent.
 
@@ -28,7 +28,7 @@ If I send you a Slack message or email outside of your core working hours, I do 
 
 ### What do I value most?
 
-I am a proponent of psychological safety. I will treat you with respect. I have your best interest in mind. It is ok to make mistakes; what is important is that we learn from them. I believe in a blameless culture i.e. it is not important *who* made the mistake but *what* we do to resolve the issue.
+I am a proponent of psychological safety. I will treat you with respect. I have your best interest in mind. It is ok to make mistakes; what is important is that we learn from them. I believe in a blameless culture, i.e., it is not important *who* made the mistake but *what* we do to resolve the issue.
 
 When you code, have empathy for our customers. Consider how and why they use our product. Produce a quality product. Treat coworkers with respect and empathy. Take ownership. If an issue is discovered in your code, fix the issue. Be proactive. Offer input where you can.
 
@@ -36,11 +36,11 @@ Taking ownership is multifaceted: ensuring there is alignment on understanding w
 
 ### My expectations
 
-- Everyone's ideas are valued equally.
-- “Disagree and commit” – Everyone should feel comfortable sharing their opinion, but should be respectful when disagreeing with others opinions.
+- Value everyone's ideas equally.
+- “Disagree and commit” – One should feel comfortable sharing their opinion but should be respectful when disagreeing with the opinions of others.
 	- Once a decision is made, commit to executing it.
-- State facts and leave emotions out.
-- Be a life-long learner – please let me know if I can assist in this. I encourage you to continue to learn and grow.
+- State facts and omit emotions.
+- Be a life-long learner — please let me know if I can assist in this. I encourage you to continue to learn and grow.
 
 ### 1:1's
 
@@ -50,7 +50,7 @@ Weekly one-on-one meetings will be focused on you and will be guided by you. We 
 
 I am organized and particular. I like a tidy environment. I like to see clean code.
 
-I am an avid note taker. I take notes in meetings and in 1:1’s to help me remember what was discussed. Please note I am in fact paying attention to you.
+I am an avid note taker. I take notes in meetings and in 1:1’s to help me remember what was discussed. Please note, I am in fact paying attention to you.
 
 I appreciate when people do their homework and research the best solution, the best product or the best idea.
 
